@@ -1,10 +1,5 @@
 # React Todo List App
 
-## Author
-**Zunair Ahmed**
-
----
-
 ## Overview
 This is a **simple Todo List application** built with React.  
 The application demonstrates the use of **reusable components**, **props passing**, and **state management** with `useState`.  
